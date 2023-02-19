@@ -6,7 +6,7 @@ public class Main {
         }
 
        int rupees=1;
-        while(rupees<=5){
+        while(rupees<10){
             System.out.println("Rupeee "+ rupees);
             rupees++;
         }
@@ -14,7 +14,7 @@ public class Main {
         do{
             System.out.println("Paiso" +paiso);
             paiso++;
-        }while(paiso<=5);
+        }while(paiso<=10);
 
         int[] age={40, 50 ,60};
         for(int element:age){
