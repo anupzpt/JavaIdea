@@ -6,6 +6,6 @@ public class Main {
     ////////////
         Female female = new Female();
         female.introduce();
-        System.out.println("My salary is " +female.salary);
+        System.out.println("My salary is " +female.salary + ". I am rich .");
     }
 }
