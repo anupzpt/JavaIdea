@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a50af932-1ff7-4066-aa58-78babd9f51d4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Calculator/src/CalculatorGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phonebook/src/Phonebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/src/Max/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/src/array/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/src/pattern/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/src/prime/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array-class/Array-class.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassTask/ClassTask.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance/Inheritance.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Layout-swings/out/production/assignment-experiment/UI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Layout-swings/out/production/assignment-experiment/UI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Layout-swings/src/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Layout-swings/src/UI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainCallingOtherClass/MainCallingOtherClass.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringLearning/StringLearning.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VectorLearning/VectorLearning.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control-statement/control-statement.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loop-statement/loop-statement.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/swings" />
+  </component>
+  <component name="ProjectId" id="2NhExTI4rMNlAl859eShW7i94fK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/Javaidea/swings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a50af932-1ff7-4066-aa58-78babd9f51d4" name="Changes" comment="" />
+      <created>1680108159637</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680108159637</updated>
+      <workItem from="1680108161050" duration="74000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

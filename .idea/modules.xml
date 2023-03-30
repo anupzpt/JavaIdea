@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array-class/Array-class.iml" filepath="$PROJECT_DIR$/Array-class/Array-class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassTask/ClassTask.iml" filepath="$PROJECT_DIR$/ClassTask/ClassTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Javaidea.iml" filepath="$PROJECT_DIR$/.idea/Javaidea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Layout-swings/Layout-swings.iml" filepath="$PROJECT_DIR$/Layout-swings/Layout-swings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MainCallingOtherClass/MainCallingOtherClass.iml" filepath="$PROJECT_DIR$/MainCallingOtherClass/MainCallingOtherClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Phonebook/Phonebook.iml" filepath="$PROJECT_DIR$/Phonebook/Phonebook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringLearning/StringLearning.iml" filepath="$PROJECT_DIR$/StringLearning/StringLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VectorLearning/VectorLearning.iml" filepath="$PROJECT_DIR$/VectorLearning/VectorLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignment/assignment.iml" filepath="$PROJECT_DIR$/assignment/assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/control-statement/control-statement.iml" filepath="$PROJECT_DIR$/control-statement/control-statement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loop-statement/loop-statement.iml" filepath="$PROJECT_DIR$/loop-statement/loop-statement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swings/swings.iml" filepath="$PROJECT_DIR$/swings/swings.iml" />
+    </modules>
+  </component>
+</project>
